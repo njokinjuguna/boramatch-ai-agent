@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Secrets
+.env
+service_account.json
+encoded.txt
+resumes.db
+job_post.db
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+*.log

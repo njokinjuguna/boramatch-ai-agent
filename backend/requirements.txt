@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+python-multipart
+google-api-python-client
+google-auth
+google-auth-httplib2
+requests
+pdfplumber
+python-docx
+transformers
+sentence-transformers
+scikit-learn
+torch
+spacy
+keybert
