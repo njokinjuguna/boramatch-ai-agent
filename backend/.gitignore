@@ -18,3 +18,7 @@ job_post.db
 # System files
 .DS_Store
 *.log
+#testing files
+test_openai.py
+reset_demo_data_resumes.py
+reset_demo_job_description.py
